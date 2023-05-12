@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "sart": "deno run app.ts",
+    "dev": "deno run --allow-read --allow-env --allow-net --watch app.ts"
+  }
+}
